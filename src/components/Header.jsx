@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Header = () => {
   return (
     <div>
-      <header className="bg-violet-600 text-white shadow-md">
+      <header className="bg-green-600 text-white shadow-md">
         <div className="container mx-auto px-4 py-4 flex items-center">
           <button className="ml-4 bg-white text-violet-600 px-4 py-2 rounded hover:bg-gray-100 transition flex items-center space-x-3">
             <div className="bg-violet-600 rounded-full p-2 flex items-center justify-center">
